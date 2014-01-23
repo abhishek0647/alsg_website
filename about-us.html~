@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0 "	>
+	<title>ALSG - About Us</title>
+	
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" >
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" >
+</head>
+
+<body>
+	<div class = "container" >
+		
+	
+		<div class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" >
+					<span class="icon-th-list"></span></a>
+
+					<a href="index.html" class="brand">Ask Learn Share Grow</a>
+					<div class="nav-collapse collapse">
+						<ul class="nav pull-right">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="#">Events</a></li>
+							<li><a href="#">Contact Us</a></li>
+							<li class="active"><a href="about-us.html">About us</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div> <br /><br /><br />
+
+		<div class="hero-unit">
+			<div class="container">
+			<!--	<h1>Ask Learn Share Grow</h1><br /> -->
+				<img src = "img/alsg.jpg" alt="Alsg Logo" /><br /><br />
+				<p class="lead">Mission: To help realize what each individual is cut out for</p>
+			</div>
+		</div>
+	
+		<div class="container">
+			<div class="row-fluid">
+				<div class="span4">
+					<p><img src="img/abhishek.jpg" alt="abhishek" />
+					<b>Abhishek:</b> Crazy for bikes,gadgets & watches. Just separate him from chocolates and ice creams and you are dead. Loves to code and "Never Ever" found in classes.</p><br /><br />
+
+					<p><img src="img/annju.jpg" alt="annju" />
+					<b>Annju:</b> The Mallu Medusa. Her curly hair can turn into the room-of-hidden things whenever required. Considers coconut to be a comfort food.</p><br /><br />
+
+					<p><img src="img/joseph.jpg" alt="joseph" />
+					<b>Joseph:</b> Founding Fore Father. Believer in anything Microsoft. A flamboyant speaker and inspirational individual. Currently persuing his MS in VLSI from USC,California</p><br /><br />
+
+					<p><img src="img/nagarajan.jpg" alt="nagarajan" />
+					<b>Nagarajan:</b> Likes to debate. Big time foodie. Loves travelling and hopes to visit all countries. People love him for his dimples</p><br /><br /><br />
+
+					<p><img src="img/riddhi.jpg" alt="riddhi" />
+					<b>Riddhi:</b> Took up Industrial Engineering Management at MSRIT just to work at Hershey's some day. Being 4'11" dosen't stop her from being the happiest and chirpiest person on this planet</p><br /><br />
+
+					<p><img src="img/sathya.jpg" alt="sathya" />
+					<b>Sathya:</b>  I'm Sathya with a "H". The punch line is , Always looks up at the stars, builds rocket engines and is generally in Space. I am also a culinary specialist.</p><br /><br />
+
+					<p><img src="sushil.jpg" alt="sushil" />
+					<b>Sushil:</b> The Boss.  ALSG happens to be Sushil's 'Brain Child'. Former Senior Business Analyst at Mu Sigma. Currently pursuing his MBA from Kelley School of Business, Indiana University</p><br /><br /> 
+				</div>
+		
+				<div class="span4">
+					<p><img src="aishwarya.jpg" alt="aishwarya" />
+					<b>Aishwarya:</b> Known for her eating disoders (Double Burst Pizzaz, Fries and any edible crap). Believes that painting a backyard  blue makes Google Earth think we have a pool</p><br /><br />
+
+					<p><img src="anuj.jpg" alt="anuj" />
+					<b>Anuj:</b> Guy with the Guitar. His favorite hobby includes getting seriously injured while traveling. His optimistic attitude and trustworthy nature are admired by his peers.</p><br /><br />
+
+					<p><img src="kunal.jpg" alt="kunal" />
+					<b>Kunal:</b> Living with passion</p><br /><br /><br /><br />
+					
+					<p><img src="niranjana.jpg" alt="niranjana" />
+					<b>Niranjana:</b> Strongly believes that the freezed deserves a light  and that on close observetion the ampersand sign looks like a man dragging his ass across the floor</p><br /><br />
+
+					<p><img src="sadvi.jpg" alt="sadvi" />
+					<b>Sadvi:</b> Believes love can change the world and insanity can keep it spinning. Paints her 
+own path n dances through it. Complete nature freak.</p><br /><br /><br />
+
+					<p><img src="sudeep.jpg" alt="sudeep" />
+					<b>Sudeep:</b> The youngest of the troupe and a total percussion freak. Loves meeting new people and can be spotted in all major fests in Bangalore!</p><br /><br />
+
+					<p><img src="vivek.jpg" alt="vivek" />
+					<b>Vivek:</b> The Tech geek, hailing from god's  own country, Kerala. Lives on football and kappa erachi. Listens to trance while coding</p><br /><br />
+
+				</div>
+	
+				<div class="span4">
+					<p><img src="akhil.jpg" alt="akhil" />
+					<b>Akhil:</b> Believes that *shrug* should be a acceptable answer to most questions and that non-fiction literature is a very good toilet-paper substitute. Worships Paul Rand, Deadpool and Tyrion Lannister.</p><br /><br />
+
+					<p><img src="avinash.jpg" alt="avinash" />
+					<b>Avinash:</b> 6'3 complan boy. Big foodie. Artist, debater  speaker, will be entrepreneur. Jack of all trades.</p><br /><br /><br />
+
+					<p><img src="mridula.jpg" alt="mridula" />
+					<b>Mridula:</b> Loves to talk, has been all over the country and still hates travelling. Thoroughbred army brat</p><br /><br /><br /><br />
+
+					<p><img src="nithin.jpg" alt="nithin" />
+					<b>Nithin:</b> Can perform exemplary jazz dance on Pink Floyd music, also known for being seriously funny. Would do anything for a plate of beef kebab.</p><br /><br /><br />
+
+					<p><img src="salman.jpg" alt="salman" />
+					<b>Salman:</b> The humongous apple fan boy who is known for being immensely lazy and a sleepy head, swears by EDM and loves to quote from 9gag</p><br /><br /><br />
+
+					<p><img src="surabhi.jpg" alt="surabhi" />
+					<b>Surabhi:</b> ALSG's first lady. Addicted to cheesy stuff and when warned about its health hazards, says, "it's better to live a short, cheesy life than a long, cheese-less life".</p><br /><br />
+				</div>
+						
+		</div>		
+
+		<hr /><hr />
+		<div class="container">
+			<div class="row-fluid">
+				<div class="span4">	
+					<p>&copy; 2013</p><a href="index.html">"Ask Learn Share Grow"</a></p>
+				</div>
+				<div class="span4 text-center">
+					<ul class="nav inline">
+						<li><a href="#">About Us</a></li>
+						<li><a href="#">Contact Us</a></li>
+						<li><a href="#">Privacy Policy</a></li>
+					</ul>
+				</div>
+				
+				<div class="span4 text-right">
+					<p>Powered By Twitter BootStrap 2.3.2</p>
+				</div>
+			</div>
+		</div>
+	
+
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js" > </script>
+	<script src="js/bootstrap.js"> </script>
+</body>
+
+</html>
